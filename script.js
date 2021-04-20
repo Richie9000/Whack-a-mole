@@ -18,3 +18,9 @@
       return hole
 
     }
+    
+    function peep(){
+      const time = ranTime(200,1000);
+      const hole = randomHoles(holes);
+      hole.classList.add("up");
+    }
