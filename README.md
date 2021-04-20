@@ -1,1 +1,1 @@
-# Countdown-timer
+# Whack a mole game
